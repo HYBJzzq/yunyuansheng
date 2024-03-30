@@ -1,7 +1,11 @@
-package com.example.productservice.po;
+package com.example.productclient.model;
+
 import lombok.Data;
 /**
  * 商品的实体
+ *
+ 40
+ * @author me
  */
 @Data
 public class Product {

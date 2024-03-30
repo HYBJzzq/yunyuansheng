@@ -1,5 +1,5 @@
 package com.example.productservice.mapper;
-import microservicedemo.productservice.po.Product;
+import com.example.productservice.po.Product;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 import java.util.List;
