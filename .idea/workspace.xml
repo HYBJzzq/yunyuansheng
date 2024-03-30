@@ -22,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/product-client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,7 +108,7 @@
       <workItem from="1711616996450" duration="3818000" />
       <workItem from="1711620830876" duration="1357000" />
       <workItem from="1711622317771" duration="705000" />
-      <workItem from="1711763627573" duration="1338000" />
+      <workItem from="1711763627573" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="productclient完成">
       <created>1711764858026</created>
