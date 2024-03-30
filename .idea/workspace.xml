@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfc2ecfd-c7ed-41b0-9ef3-dd82f4f9251e" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/eureka-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/src/main/java/com/example/eurekaservice/EurekaServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-service/src/test/java/com/example/eurekaservice/EurekaServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/ProductClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-client/src/test/java/com/example/productclient/ProductClientApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/test/java/com/example/productservice/ProductServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/test/java/com/example/productservice/ProductServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/product-service" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/product-client" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,13 +69,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
+    "jdk.selected.JAVA_MODULE": "1.8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "19e8fc739b8114e12d19ec15b8f3e91f",
     "vue.rearranger.settings.migration": "true"
   }
@@ -96,6 +91,13 @@
     <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="eureka-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaservice.EurekaServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.productclient.ProductClientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,6 +121,8 @@
       <workItem from="1711616071610" duration="913000" />
       <workItem from="1711616996450" duration="3818000" />
       <workItem from="1711620830876" duration="1357000" />
+      <workItem from="1711622317771" duration="705000" />
+      <workItem from="1711763627573" duration="1015000" />
     </task>
     <servers />
   </component>
