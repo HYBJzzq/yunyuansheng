@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc2ecfd-c7ed-41b0-9ef3-dd82f4f9251e" name="Changes" comment="productclient完成">
-      <change afterPath="$PROJECT_DIR$/product-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/Client/ProductServiceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/Client/ProductServiceFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/ProductClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/controller/ProductServiceClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/test/java/com/example/productclient/ProductClientApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-client" beforeDir="false" afterPath="$PROJECT_DIR$/product-client" afterDir="false" />
-    </list>
+    <list default="true" id="cfc2ecfd-c7ed-41b0-9ef3-dd82f4f9251e" name="Changes" comment="配置完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +62,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "e2ae89400a41321aa6a5cbac22e082a8",
+    "spring.configuration.checksum": "4a18056962bb29ab548f070896789308",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -136,6 +118,7 @@
       <workItem from="1711763627573" duration="1484000" />
       <workItem from="1711777475754" duration="129000" />
       <workItem from="1711777649292" duration="99000" />
+      <workItem from="1711777842817" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="productclient完成">
       <created>1711764858026</created>
@@ -144,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711764858026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="配置完成">
+      <created>1711778059231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711778059231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +166,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="productclient完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="productclient完成" />
+    <MESSAGE value="配置完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置完成" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
