@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc2ecfd-c7ed-41b0-9ef3-dd82f4f9251e" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/product-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/java/com/example/productclient/ProductClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-client/src/test/java/com/example/productclient/ProductClientApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfc2ecfd-c7ed-41b0-9ef3-dd82f4f9251e" name="Changes" comment="productclient完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,8 +108,16 @@
       <workItem from="1711616996450" duration="3818000" />
       <workItem from="1711620830876" duration="1357000" />
       <workItem from="1711622317771" duration="705000" />
-      <workItem from="1711763627573" duration="1015000" />
+      <workItem from="1711763627573" duration="1338000" />
     </task>
+    <task id="LOCAL-00001" summary="productclient完成">
+      <created>1711764858026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711764858026</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="productclient完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="productclient完成" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
